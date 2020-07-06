@@ -1,0 +1,2 @@
+# Birth_Prediction_Research
+Use genomic data from Dream Challenge project and Gtex Genomic data base to predict the gestational age using Machine Learning Algorithms like Random Forest Regression, Lasso Regression, Support Vector Machine Regression, and Ridge Regression. PCA, Double Random Forest Feature Selection, Remove Outlier, Non-negative Matrix Factorization, and Biological Based Feature Selection are used as Feature Selecting methods. Also, Deep Learning Algorithms include: Variant Auto Encoder and Transfer Learning are used in this project.
